@@ -9,7 +9,7 @@ Contact the rclone project
 
 The project website is at:
 
-  * https://github.com/ncw/rclone
+  * https://github.com/Shop2market/rclone
 
 There you can file bug reports, ask for help or contribute pull
 requests.

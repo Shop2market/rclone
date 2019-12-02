@@ -16,21 +16,20 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/fstest"
 
 	// Active file systems
-	_ "github.com/ncw/rclone/amazonclouddrive"
-	_ "github.com/ncw/rclone/b2"
-	_ "github.com/ncw/rclone/drive"
-	_ "github.com/ncw/rclone/dropbox"
-	_ "github.com/ncw/rclone/googlecloudstorage"
-	_ "github.com/ncw/rclone/hubic"
-	_ "github.com/ncw/rclone/local"
-	_ "github.com/ncw/rclone/onedrive"
-	_ "github.com/ncw/rclone/s3"
-	_ "github.com/ncw/rclone/swift"
-	_ "github.com/ncw/rclone/yandex"
+	_ "github.com/Shop2market/rclone/amazonclouddrive"
+	_ "github.com/Shop2market/rclone/b2"
+	_ "github.com/Shop2market/rclone/drive"
+	_ "github.com/Shop2market/rclone/googlecloudstorage"
+	_ "github.com/Shop2market/rclone/hubic"
+	_ "github.com/Shop2market/rclone/local"
+	_ "github.com/Shop2market/rclone/onedrive"
+	_ "github.com/Shop2market/rclone/s3"
+	_ "github.com/Shop2market/rclone/swift"
+	_ "github.com/Shop2market/rclone/yandex"
 )
 
 // Globals

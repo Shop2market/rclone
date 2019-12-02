@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/Shop2market/rclone/fs"
 	"github.com/ncw/swift"
 	"github.com/spf13/pflag"
 )

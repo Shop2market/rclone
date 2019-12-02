@@ -7,9 +7,9 @@ package b2_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/b2"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
+	"github.com/Shop2market/rclone/b2"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/fstest/fstests"
 )
 
 func init() {

@@ -13,12 +13,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/dircache"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/oauthutil"
-	"github.com/ncw/rclone/onedrive/api"
-	"github.com/ncw/rclone/pacer"
-	"github.com/ncw/rclone/rest"
+	"github.com/Shop2market/rclone/dircache"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/oauthutil"
+	"github.com/Shop2market/rclone/onedrive/api"
+	"github.com/Shop2market/rclone/pacer"
+	"github.com/Shop2market/rclone/rest"
 	"github.com/spf13/pflag"
 	"golang.org/x/oauth2"
 )

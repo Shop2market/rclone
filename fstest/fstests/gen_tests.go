@@ -58,9 +58,9 @@ package {{ .FsName }}_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
-	"github.com/ncw/rclone/{{ .FsName }}"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/fstest/fstests"
+	"github.com/Shop2market/rclone/{{ .FsName }}"
 )
 
 func init() {

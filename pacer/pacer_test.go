@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/Shop2market/rclone/fs"
 )
 
 func TestNew(t *testing.T) {

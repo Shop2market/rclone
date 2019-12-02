@@ -17,7 +17,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/Shop2market/rclone/fs"
 )
 
 // Register with Fs

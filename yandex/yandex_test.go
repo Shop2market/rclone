@@ -7,9 +7,9 @@ package yandex_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
-	"github.com/ncw/rclone/yandex"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/fstest/fstests"
+	"github.com/Shop2market/rclone/yandex"
 )
 
 func init() {

@@ -21,9 +21,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/b2/api"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/rest"
+	"github.com/Shop2market/rclone/b2/api"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/rest"
 )
 
 const (

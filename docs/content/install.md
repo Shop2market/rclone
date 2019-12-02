@@ -13,13 +13,13 @@ Rclone is a Go program and comes as a single binary file.
 
 Or alternatively if you have Go installed use
 
-    go get github.com/ncw/rclone
+    go get github.com/Shop2market/rclone
 
 and this will build the binary in `$GOPATH/bin`.  If you have built
 rclone before then you will want to update its dependencies first with
 this (remove `-f` if using go < 1.4)
 
-    go get -u -v -f github.com/ncw/rclone/...
+    go get -u -v -f github.com/Shop2market/rclone/...
 
 See the [Usage section](/docs/) of the docs for how to use rclone, or
 run `rclone -h`.
@@ -36,4 +36,4 @@ linux binary downloaded files install example
     #install manpage
     sudo mkdir -p /usr/local/share/man/man1
     sudo cp rclone.1 /usr/local/share/man/man1/
-    sudo mandb 
+    sudo mandb

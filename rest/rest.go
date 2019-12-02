@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/Shop2market/rclone/fs"
 )
 
 // Client contains the info to sustain the API

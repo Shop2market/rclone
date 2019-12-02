@@ -7,9 +7,9 @@ package local_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
-	"github.com/ncw/rclone/local"
+	"github.com/Shop2market/rclone/fs"
+	"github.com/Shop2market/rclone/fstest/fstests"
+	"github.com/Shop2market/rclone/local"
 )
 
 func init() {

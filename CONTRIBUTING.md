@@ -23,12 +23,12 @@ You'll need a Go environment set up with GOPATH set.  See [the Go
 getting started docs](https://golang.org/doc/install) for more info.
 
 First in your web browser press the fork button on [rclone's Github
-page](https://github.com/ncw/rclone).
+page](https://github.com/Shop2market/rclone).
 
 Now in your terminal
 
-    go get github.com/ncw/rclone
-    cd $GOPATH/src/github.com/ncw/rclone
+    go get github.com/Shop2market/rclone
+    cd $GOPATH/src/github.com/Shop2market/rclone
     git remote rename origin upstream
     git remote add origin git@github.com:YOURUSER/rclone.git
 
@@ -78,7 +78,7 @@ rclone's tests are run from the go testing framework, so at the top
 level you can run this to run all the tests.
 
     go test -v ./...
-    
+
 rclone contains a mixture of unit tests and integration tests.
 Because it is difficult (and in some respects pointless) to test cloud
 storage systems by mocking all their interfaces, rclone unit tests can
